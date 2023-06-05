@@ -35,7 +35,6 @@ if(scrollDir === "down") {
 
 
     return (<>
-
 <div id="sectionInterdite">
             <div className="central-nicocarmine">
                 <div className="column-nicocarmine" style={{display:"flex",flexDirection:"column"}}>
